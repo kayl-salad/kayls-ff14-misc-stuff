@@ -1,29 +1,42 @@
 -----------------
 |     NOTES     |
 -----------------
-The official Square Enix, Final Fantasy, Final Fantasy XIV, etc. accounts are kind about not spoiling people, but they may post teasers or questions that can hint at things down the line. Additionally, the replies may host spoilers.
+The official Square Enix, Final Fantasy, Final Fantasy XIV, etc. accounts are kind about not spoiling people, but they may 
+post teasers or questions that can hint at things down the line. Additionally, the replies may host spoilers.
 
-Muting their accounts might be a good idea, just use your own judgement. Additionally, muting these words may very well prevent you from seeing their tweets at all, which can be a good thing.
+Muting their accounts might be a good idea, just use your own judgement. Additionally, muting these words may very well 
+prevent you from seeing their tweets at all, which can be a good thing.
 
-But you may also miss important updates, so keep an eye on the Lodestone or that friend who seems to be a living, breathing Lodestone reporter.
+But you may also miss important updates, so keep an eye on the Lodestone or that friend who seems to be a living, 
+breathing Lodestone reporter.
 
 ----------------
 |     TIPS     |
 ----------------
 Just avoid social media completely if possible, for as long as possible.
 
-Don't post anything related to FFXIV or Dawntrail whatsoever. Consider it "refusing to contribute to the 'problem'". I know, the temptation is strong. "I can just use a hashtag," you think.
-Unfortunately not everybody is up to speed on these things. They might not know about it at all. Maybe they didn't type the hashtag right or just didn't select the right options. Or muted all the things on one account but not another.
+Don't post anything related to FFXIV or Dawntrail whatsoever. Consider it "refusing to contribute to the 'problem'". 
+I know, the temptation is strong. "I can just use a hashtag," you think.
 
-Use these terms at your discretion. Combine some and pick the ones you're most worried about. Leave the very general terms out of your timeline and those you follow are a mix of FFXIV and other things.
+Unfortunately not everybody is up to speed on these things. They might not know about it at all. 
+Maybe they didn't type the hashtag right or just didn't select the right options. Or muted all the things on one account but not another.
 
-Use your best judgement and decide what you are most concerned on being spoiled about. If you don't care about location-specific lore or visuals, you might not need to mute all or any of the locations.
+Use these terms at your discretion. Combine some and pick the ones you're most worried about. Leave the very general terms out
+of your timeline and those you follow are a mix of FFXIV and other things.
+
+Use your best judgement and decide what you are most concerned on being spoiled about. If you don't care about location-specific lore 
+or visuals, you might not need to mute all or any of the locations.
 
 Use a browser extension like uBlock Origin to filter out all images for the time being.
+
 This can be done using personal filters created via the element picker (eyedropper) tool.
+
 You can delete the filter at any time in the dashboard/my filters tab.
+
 One easy filter to add is this: ||pbs.twimg.com/media/
-Usually when picking this element with the eyedropper, there's some random string after media/ which points at the specific image in the post, so you can just leave it off.
+
+Usually when picking this element with the eyedropper, there's some random string after media/ which points at the specific image in the post, 
+so you can just leave it off.
 
 
 -------------------------
