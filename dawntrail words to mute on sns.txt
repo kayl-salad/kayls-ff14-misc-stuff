@@ -43,7 +43,11 @@ so you can just leave it off.
 |     GENERAL WORDS     |
 -------------------------
 msq
+main story quest
 main story
+story
+role quest
+hunts
 msq spoiler
 #msqspoilers
 dawntrail
@@ -68,6 +72,8 @@ ff14
 final fantasy xiv
 final fantasy 14
 expansion
+expac
+expack
 spoiler
 spoilers
 spoiler alert
@@ -144,18 +150,24 @@ galvus
 gaius
 baelsar
 black wolf
+nero tol scaeva
+nero scaeva
+nero
 ascian
 ascians
 allagan
 allagans
 enigmatic maiden
+sphene
 
 ------------------
 |     OTHERS     |
 ------------------
 viper
+vpr
 pictomancer
 picto
+pct
 beastmaster
 beast master
 limited job
@@ -166,6 +178,7 @@ futures rewritten
 ultimate
 valigarmanda
 skyruin
+vidraal
 eliminator
 barreltender
 kixaihih
@@ -181,3 +194,7 @@ gold saucer
 hildibrand
 hildy
 hildi
+queen
+calamity
+umbral
+astral
